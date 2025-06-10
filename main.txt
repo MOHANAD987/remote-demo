@@ -4,3 +4,6 @@
 4-bash
 5-git\GitHub
 6-python
+q
+w
+e

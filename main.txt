@@ -1,0 +1,6 @@
+1-it
+2-aws
+3-linux
+4-bash
+5-git\GitHub
+6-python
